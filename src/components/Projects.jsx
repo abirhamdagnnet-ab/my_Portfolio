@@ -4,7 +4,7 @@ const PROJECTS = [
   {
     num: '01',
     title: 'Personal Portfolio',
-    github:["https://abirhamdagnnet-ab.github.io/my_Portfolio/","https://github.com/abirhamdagnnet-ab/my_Portfolio"],
+    github:["https://my-portfolio-rho-ten-93.vercel.app/","https://github.com/abirhamdagnnet-ab/my_Portfolio"],
     description: 'This very portfolio — dark tech aesthetic, smooth animations, typed hero, skill bars, and a terminal-meets-creative vibe. Built with React.',
     stack: ['React', 'CSS3', 'JavaScript'],
     color: 'var(--purple)',
